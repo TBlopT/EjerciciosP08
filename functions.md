@@ -146,7 +146,8 @@ HTML es el lenguaje que se utiliza para componer los textos que se muestran en l
 es un sistema de composición de textos que cuida el formato en especial en el ámbito de la tipografía y que es especialmente adecuado para textos de carácter científico.
 No se pretende aquí que profundice en conocer HTML o LaTeX.
 
-La sección [Documenting the code](https://www.doxygen.nl/manual/config.html) del manual de Doxygen indica cómo comentar el código fuente de modo que los comentarios sean procesados por Doxygen para incorporarlos a la documentación generada.
+La sección [Documenting the code](https://www.doxygen.nl/manual/docblocks.html)
+del manual de Doxygen indica cómo comentar el código fuente de modo que los comentarios sean procesados por Doxygen para incorporarlos a la documentación generada.
 
 La guía [Documenting C++ Code](https://developer.lsst.io/cpp/api-docs.html) de documentación de código del proyecto LLST es la referencia que se adoptará en la asignatura para documentar el código de los programas que se desarrollen.
 Se utilizarán comentarios de tipo JavaDoc para comentarios de bloque:
