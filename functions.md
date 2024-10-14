@@ -53,16 +53,16 @@ A continuación se le solicitará que "Acepte la tarea Practica-Nombre".
 Habrá una tarea asociada con cada una de las prácticas de la asignatura.
 
 Cuando lo haya hecho aparecerá una pantalla 
-[como esta](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/accepted.png?token=GHSAT0AAAAAAB2KIDMCQ75PHT2TCKF2HUPSY2WOOPQ)
+[como esta](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/accepted.png)
 que indica que ha aceptado Ud. la tarea asignada y
 cuando refresque la pantalla le mostrará 
-[otra pantalla](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/ready.png?token=GHSAT0AAAAAAB2KIDMDZNDJL6P5KDO3N4OEY2WOPIA)
+[otra pantalla](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/ready.png)
 en la que figura el enlace al repositorio que ha sido creado
 para su trabajo en la práctica.
 
 A través de ese enlace accederá Ud. en GitHub al repositorio privado que se ha creado para que desarrolle en
 él los programas correspondientes a la práctica en cuestión.
-[El enlace que figura en ese repositorio](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/link.png?token=GHSAT0AAAAAAB2KIDMCQ4Z4HTEU2RJWWXDCY2WOQCA)
+[El enlace que figura en ese repositorio](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/link.png)
 (elija la opción SSH para el enlace) es el que ha de entregar Ud. en la tarea del aula virtual correspondiente a la práctica.
 
 Recuerde que para cada práctica tiene que entregar 2 elementos: 
@@ -75,7 +75,7 @@ Ese mismo enlace es el que ha de utilizar para realizar una copia local (clone) 
 virtual y comenzar a trabajar en los ejercicios de la práctica:
 
 ```
-git clone https://github.com/IB-2023-2024/P08-functions <DirectorioLocal>
+git clone https://github.com/IB-2024-2025/P08-functions <DirectorioLocal>
 ```
 
 ### Doxygen
@@ -288,7 +288,7 @@ Para generar números aleatorios en C++ consulte la función `std::rand` por eje
 Desarrolle un programa `random_numbers.cc` que tome como entrada dos números naturales `n` y `m` tales que n < m y genere un número aleatorio real r en el intervalo [n, m]. Para generar números aleatorios en C++ consulte la función std::rand por ejemplo en esta referencia.
 
 4. Estudie el programa 
-[`floating-point-arithmetics.cc`](https://github.com/IB-2022-2023/P08-functions/blob/main/floating-point-arithmetics.cc)
+[`floating-point-arithmetics.cc`](https://github.com/IB-2024-2025/P08-functions/blob/main/floating-point-arithmetics.cc)
 que se incluye en el directorio raíz del repositorio de esta práctica.
 Ese programa define una constante de tipo double, `kOneThird` cuyo valor (0.333) debiera coincidir con el de
 la fracción 1/3.
