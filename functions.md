@@ -82,7 +82,7 @@ git clone https://github.com/IB-2024-2025/P08-functions <DirectorioLocal>
 [Doxygen](https://en.wikipedia.org/wiki/Doxygen) 
 es una herramienta de código abierto que permite generar documentación de referencia para proyectos de desarrollo software. 
 Una ventaja de Doxygen es que la documentación está escrita en el propio código fuente de los programas, y por lo tanto es relativamente fácil de mantener actualizada. 
-Doxygen puede hacer referencias cruzadas entre la documentación y el código, de modo que el lector de un documento puede referirse fácilmente al código fuente.
+Doxygen puede contemplar referencias cruzadas entre la documentación y el código, de modo que el lector de un documento puede referirse fácilmente al código fuente.
 La herramienta extrae la documentación de los comentarios presentes en los ficheros de código fuente y puede generar la salida en diferentes formatos entre los cuales están HTML, PDF, LaTeX o páginas `man` de Unix.
 
 En *Informática Básica* no se propone un uso exhaustivo de Doxygen pero **sí se requiere que la
@@ -93,7 +93,7 @@ Comience por instalar Doxygen en su máquina virtual de la asignatura:
 ```
 $ sudo apt install doxygen
 ```
-Instale también los siguientes paquetes:
+Instale también los paquetes `texlive-latex-base`, `texlive-latex-recommended` y `texlive-latex-extra`:
 ```
 $ sudo apt install texlive-latex-base
 $ sudo apt install texlive-latex-recommended
