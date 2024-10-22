@@ -33,51 +33,6 @@ código
 * Ha realizado todos sus ejercicios en la máquina virtual Ubuntu de la asignatura.
 * Demuestra que es capaz de ejecutar comandos Linux en su VM
 
-### GitHub Classroom
-En el futuro se utilizará GitHub Classroom (una plataforma relacionada con GitHub) para gestionar las
-prácticas de *Informática Básica*.
-En esa plataforma, para la realización de cada práctica recibirá una invitación a una tarea que tendrá que
-aceptar.
-Una vez acepte la invitación tendrá que clonar con `git` un repositorio asociado a la tarea.
-Ese repositorio privado será el punto de partida y tendrá Ud. que añadir en él directorios con los programas
-que realice.
-
-El enlace de invitación a la tarea que se le comunicará tiene una apariencia similar a
-`https://classroom.github.com/a/uNbth9vD`
-Si lo introduce en un navegador, se le solicitará que se autentifique en su cuenta de GitHub,
-y una vez autentificada/o le llevará a una pantalla
-[como esta](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/join.png)
-en la que se le solicitará que se una a la "*classroom*" IB-2024-2025.
-Para ello ha de seleccionar su nombre de la lista de identificadores (*Identifiers*) que figura en esa página.
-A continuación se le solicitará que "Acepte la tarea Practica-Nombre".
-Habrá una tarea asociada con cada una de las prácticas de la asignatura.
-
-Cuando lo haya hecho aparecerá una pantalla 
-[como esta](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/accepted.png)
-que indica que ha aceptado Ud. la tarea asignada y
-cuando refresque la pantalla le mostrará 
-[otra pantalla](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/ready.png)
-en la que figura el enlace al repositorio que ha sido creado
-para su trabajo en la práctica.
-
-A través de ese enlace accederá Ud. en GitHub al repositorio privado que se ha creado para que desarrolle en
-él los programas correspondientes a la práctica en cuestión.
-[El enlace que figura en ese repositorio](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/link.png)
-(elija la opción SSH para el enlace) es el que ha de entregar Ud. en la tarea del aula virtual correspondiente a la práctica.
-
-Recuerde que para cada práctica tiene que entregar 2 elementos: 
-* Este enlace a su repositorio. Ese enlace lo puede ya escribir en la tarea correspondiente del aula virtual: 
-no es necesario que espere a la sesión de evaluación para subirlo.
-* Un fichero `.tar.gz` conteniendo todos los programas que desarrolle tanto antes como durante la sesión de evaluación.
-Sí ha de esperar a la sesión de evaluación para subir el fichero .tar.gz conteniendo sus programas.
-
-Ese mismo enlace es el que ha de utilizar para realizar una copia local (clone) del repositorio en su máquina
-virtual y comenzar a trabajar en los ejercicios de la práctica:
-
-```
-git clone https://github.com/IB-2024-2025/P08-functions <DirectorioLocal>
-```
-
 ### Doxygen
 [Doxygen](https://en.wikipedia.org/wiki/Doxygen) 
 es una herramienta de código abierto que permite generar documentación de referencia para proyectos de desarrollo software. 
