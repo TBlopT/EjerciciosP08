@@ -1,4 +1,4 @@
-# Práctica 08. Funciones. GitHub Classroom. Doxygen.
+# Práctica 08. Funciones. Doxygen.
 
 # Factor de ponderación: 7
 
